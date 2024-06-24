@@ -1,0 +1,41 @@
+00-33-57:Emails sent:1
+00-40-11:Emails opened:1
+01-46-41:Emails deleted:1
+01-56-59:Emails opened:1
+03-15-11:Emails sent:1
+03-55-17:Logins:1
+03-58-48:Emails opened:1
+04-17-27:Emails deleted:1
+04-19-13:Emails opened:1
+05-00-41:Emails sent:1
+05-45-57:Emails deleted:1
+06-22-03:Emails opened:1
+06-42-55:Emails sent:1
+06-45-00:Time online:197.80
+09-58-49:Emails opened:1
+10-42-28:Emails sent:1
+10-49-46:Emails sent:1
+11-11-18:Emails opened:1
+12-03-19:Emails opened:1
+12-18-55:Logins:1
+14-08-43:Emails opened:1
+14-20-58:Logins:1
+14-23-13:Emails sent:1
+15-36-10:Emails opened:1
+16-13-49:Emails opened:1
+16-45-18:Emails sent:1
+16-52-19:Emails deleted:1
+16-53-01:Emails sent:1
+17-11-24:Emails deleted:1
+17-31-54:Emails deleted:1
+18-20-58:Emails deleted:1
+18-54-13:Emails sent:1
+19-17-41:Emails opened:1
+19-52-26:Emails opened:1
+19-53-56:Emails opened:1
+22-19-19:Emails deleted:1
+22-33-26:Emails deleted:1
+22-44-43:Emails opened:1
+23-13-37:Emails sent:1
+23-18-31:Emails opened:1
+23-23-29:Logins:1

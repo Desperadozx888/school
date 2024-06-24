@@ -1,0 +1,10 @@
+Logins:C:3:7:6.93
+Logins:D:3:7:7
+Time online:C:199:216:212.73
+Time online:D:199:216:200
+Emails sent:C:9:18:13.52
+Emails sent:D:9:18:11
+Emails opened:C:12:17:16.48
+Emails opened:D:12:17:13
+Emails deleted:C:8:12:8.95
+Emails deleted:D:8:12:9

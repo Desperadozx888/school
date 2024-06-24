@@ -1,0 +1,41 @@
+00-12-13:Emails sent:1
+01-34-17:Emails opened:1
+01-40-02:Emails deleted:1
+01-57-50:Emails opened:1
+02-51-43:Emails opened:1
+03-07-03:Emails opened:1
+03-28-01:Logins:1
+03-49-26:Emails opened:1
+03-49-29:Emails opened:1
+04-20-46:Emails deleted:1
+04-28-49:Logins:1
+04-37-52:Emails opened:1
+04-41-11:Emails opened:1
+04-48-32:Emails deleted:1
+04-59-11:Emails sent:1
+06-56-25:Emails opened:1
+07-13-29:Logins:1
+07-31-19:Emails deleted:1
+07-35-18:Emails sent:1
+07-36-58:Emails opened:1
+08-23-26:Emails deleted:1
+09-15-01:Emails sent:1
+11-16-51:Emails sent:1
+11-20-23:Emails sent:1
+11-42-12:Emails opened:1
+12-01-35:Emails opened:1
+12-29-25:Emails sent:1
+13-07-46:Emails sent:1
+13-59-14:Emails opened:1
+14-02-02:Emails sent:1
+16-09-52:Emails deleted:1
+16-25-13:Emails opened:1
+16-53-23:Emails sent:1
+17-15-18:Logins:1
+18-36-19:Emails deleted:1
+18-39-37:Emails opened:1
+18-52-08:Emails opened:1
+18-58-34:Time online:145.51
+19-15-17:Emails deleted:1
+22-10-37:Emails sent:1
+23-40-18:Emails sent:1
